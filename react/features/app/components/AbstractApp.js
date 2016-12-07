@@ -19,7 +19,7 @@ import {
 const DEFAULT_CONFIG = {
     configLocation: './config.js',
     hosts: {
-        domain: 'meet.jit.si'
+        domain: 'alice.notmatter.com'
     }
 };
 
