@@ -1,4 +1,4 @@
-# jitsi-meet-android
+# Alice-android
 
 ## Video Bridge Server
 ```
